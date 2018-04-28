@@ -32,3 +32,6 @@ Thumbs.db
 
 # dotenv-rails
 .env
+
+# rbenv
+.ruby-version
